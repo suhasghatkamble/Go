@@ -1,0 +1,1 @@
+go run 08_defer_function.go
